@@ -25,6 +25,6 @@ dependencies:
     - mkdocs
     - mkdocs-material
     - mkdocs-minify-plugin
-    - nbconvert
+    - nbconvert==5.5
     - pygments
     - pymdown-extensions

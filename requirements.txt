@@ -14,11 +14,11 @@ pytest-cov
 
 # This project conda deps
 notebook
-nbconvert
 
 # This project pip deps
 mkdocs
 mkdocs-material
 mkdocs-minify-plugin
+nbconvert==5.5
 pygments
 pymdown-extensions
